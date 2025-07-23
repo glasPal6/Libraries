@@ -13,3 +13,12 @@
 [submodule "raylib"]
 	path = raylib
 	url = git@github.com:raysan5/raylib.git
+[submodule "libgpiod"]
+	path = libgpiod
+	url = git@github.com:brgl/libgpiod.git
+[submodule "base_c"]
+	path = base_c
+	url = git@github.com:glasPal6/base_c.git
+[submodule "WiringPi"]
+	path = WiringPi
+	url = git@github.com:WiringPi/WiringPi.git
