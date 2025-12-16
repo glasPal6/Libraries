@@ -22,3 +22,6 @@
 [submodule "WiringPi"]
 	path = WiringPi
 	url = git@github.com:WiringPi/WiringPi.git
+[submodule "microzig"]
+	path = microzig
+	url = git@github.com:ZigEmbeddedGroup/microzig.git
